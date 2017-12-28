@@ -1,6 +1,6 @@
 My first line of code in Git .
 
-I'll be doing some new things hereafter .
+Some new things .
 
 Languages ..
   C .

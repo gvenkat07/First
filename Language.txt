@@ -1,4 +1,4 @@
-My first line of code in Git .
+First line of code .
 
 Some new things .
 
